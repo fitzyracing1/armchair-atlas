@@ -1,5 +1,7 @@
 # Armchair
 
+**Live:** https://fitzyracing1.github.io/armchair-atlas/ · **Repo:** https://github.com/fitzyracing1/armchair-atlas
+
 A cinematic atlas for places near the chair and far from it. Static site, no build, **no API key**: Leaflet + OpenStreetMap tiles, Nominatim search, Overpass for places on the map, and Wikipedia for nearby articles and summaries. Google is optional.
 
 ![Armchair: nearby castles around Lisbon, ranked by 4/c²](docs/screenshot.png)
